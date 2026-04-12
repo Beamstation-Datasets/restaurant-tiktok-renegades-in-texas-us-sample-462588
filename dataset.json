@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
+  "config_name": "Restaurant TikTok Renegades in Texas, US",
+  "export_job_id": "43545b55-a35b-4163-9e6f-a54c8b01811b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 462588,
+  "location_name": "Texas",
+  "location_type": "state",
+  "repo_name": "restaurant-tiktok-renegades-in-texas-us-sample-462588",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/462588/beamstation_462588_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.8,
+  "sample_records": 40,
+  "sample_sha256": "e5df144f555d357ace636baf2037897926fa30d5b89ff1738ec1fddda2fad70b",
+  "sample_size_bytes": 173722,
+  "total_records": 408,
+  "updated_at": "2026-04-08T04:59:58.067828+00:00"
+}
