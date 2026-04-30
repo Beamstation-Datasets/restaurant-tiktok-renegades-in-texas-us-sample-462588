@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f1782f23-9e06-46f5-a7e0-bab7038c3f0a",
+  "export_job_id": "44e6598e-ba24-4465-a12d-50f27486f052",
   "id_short": 462588,
-  "published_at": "2026-04-22T19:45:23Z",
+  "published_at": "2026-04-30T07:27:39Z",
   "repo_name": "restaurant-tiktok-renegades-in-texas-us-sample-462588",
   "sample_asset_name": "beamstation_462588_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/462588/beamstation_462588_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 29,
-  "sample_sha256": "ebd4d9e8a4dfd9b9e53760e2245f0a9e99213413c87d91d66a7dc5f2e7367114",
-  "sample_size_bytes": 132538,
-  "total_records": 296
+  "sample_records": 42,
+  "sample_sha256": "66d4d3d11ebd46395c1f86a20343efadda461b550eb447135d274d35bab5dc92",
+  "sample_size_bytes": 182377,
+  "total_records": 428
 }
