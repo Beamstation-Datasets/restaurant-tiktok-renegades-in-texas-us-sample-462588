@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in Texas, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `462588` |
 | Location | Texas |
 | Category | Restaurants |
-| Full dataset size | 296 records |
-| Free sample size | 29 records (9.8%) |
-| Last export | 2026-04-22T16:45:00.934369+00:00 |
+| Full dataset size | 428 records |
+| Free sample size | 42 records (9.81%) |
+| Last export | 2026-04-29T16:38:56.707494+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-texas-us-sample-462588/releases/download/sample-latest/beamstation_462588_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
